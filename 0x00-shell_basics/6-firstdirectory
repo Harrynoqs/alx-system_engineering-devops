@@ -1,0 +1,3 @@
+
+#!/bin/bash
+mkdiir /tmp/my_first_directory
